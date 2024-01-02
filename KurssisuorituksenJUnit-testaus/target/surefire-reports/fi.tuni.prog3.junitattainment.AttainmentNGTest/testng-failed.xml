@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [fi.tuni.prog3.junitattainment.AttainmentNGTest]" verbose="0">
+  <test name="Command line test(failed)">
+    <classes>
+      <class name="fi.tuni.prog3.junitattainment.AttainmentNGTest">
+        <methods>
+          <include name="testGetGrade"/>
+          <include name="testCompareTo_Object"/>
+          <include name="setUpClass"/>
+          <include name="testToString"/>
+          <include name="testCompareTo_Attainment"/>
+          <include name="testGetStudentNumber"/>
+          <include name="setUpMethod"/>
+          <include name="tearDownClass"/>
+          <include name="tearDownMethod"/>
+          <include name="testGetCourseCode"/>
+        </methods>
+      </class> <!-- fi.tuni.prog3.junitattainment.AttainmentNGTest -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [fi.tuni.prog3.junitattainment.AttainmentNGTest] -->

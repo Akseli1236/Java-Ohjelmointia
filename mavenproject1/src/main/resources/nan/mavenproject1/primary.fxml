@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.TreeView?>
+<?import javafx.scene.layout.VBox?>
+
+<VBox alignment="CENTER" prefHeight="821.0" prefWidth="975.0" spacing="20.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="nan.mavenproject1.PrimaryController">
+   <children>
+      <TreeView fx:id="treeView" onContextMenuRequested="#selectItem" onMouseClicked="#selectItem" prefHeight="167.0" prefWidth="928.0" />
+      <TreeView fx:id="treeView1" onContextMenuRequested="#selectItem2" onMouseClicked="#selectItem2" prefHeight="259.0" prefWidth="558.0" />
+      <TreeView fx:id="treeView2" prefHeight="247.0" prefWidth="940.0" />
+   </children>
+   <padding>
+      <Insets bottom="20.0" left="20.0" right="20.0" top="20.0" />
+   </padding>
+</VBox>

@@ -1,0 +1,45 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'18'
+-sourcepath
+'C:/Users/aksel/Desktop/Javatyöt/SarjataulukkoJavaDoc/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/aksel/Desktop/Javatyöt/SarjataulukkoJavaDoc/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'SarjataulukkoJavaDoc 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'SarjataulukkoJavaDoc 1.0-SNAPSHOT API'
+fi.tuni.prog3.standings
+'C:/Users/aksel/Desktop/Javatyöt/SarjataulukkoJavaDoc/src/main/java/fi/tuni/prog3/standings/Standings.java'
+C:\Users\aksel\Desktop\Javatyöt\SarjataulukkoJavaDoc\src\main\java = 1667522612639
+C:\Users\aksel\Desktop\Javatyöt\SarjataulukkoJavaDoc\target\site\apidocs\allclasses-index.html = 1667524909912
+C:\Users\aksel\Desktop\Javatyöt\SarjataulukkoJavaDoc\target\site\apidocs\allpackages-index.html = 1667524909914
+C:\Users\aksel\Desktop\Javatyöt\SarjataulukkoJavaDoc\target\site\apidocs\copy.svg = 1667524909937
+C:\Users\aksel\Desktop\Javatyöt\SarjataulukkoJavaDoc\target\site\apidocs\element-list = 1667524909871
+C:\Users\aksel\Desktop\Javatyöt\SarjataulukkoJavaDoc\target\site\apidocs\help-doc.html = 1667524909932
+C:\Users\aksel\Desktop\Javatyöt\SarjataulukkoJavaDoc\target\site\apidocs\index-all.html = 1667524909927
+C:\Users\aksel\Desktop\Javatyöt\SarjataulukkoJavaDoc\target\site\apidocs\index.html = 1667524909928
+C:\Users\aksel\Desktop\Javatyöt\SarjataulukkoJavaDoc\target\site\apidocs\jquery-ui.overrides.css = 1667524909959
+C:\Users\aksel\Desktop\Javatyöt\SarjataulukkoJavaDoc\target\site\apidocs\member-search-index.js = 1667524909918
+C:\Users\aksel\Desktop\Javatyöt\SarjataulukkoJavaDoc\target\site\apidocs\module-search-index.js = 1667524909915
+C:\Users\aksel\Desktop\Javatyöt\SarjataulukkoJavaDoc\target\site\apidocs\overview-tree.html = 1667524909902
+C:\Users\aksel\Desktop\Javatyöt\SarjataulukkoJavaDoc\target\site\apidocs\package-search-index.js = 1667524909916
+C:\Users\aksel\Desktop\Javatyöt\SarjataulukkoJavaDoc\target\site\apidocs\script.js = 1667524909936
+C:\Users\aksel\Desktop\Javatyöt\SarjataulukkoJavaDoc\target\site\apidocs\search.js = 1667524909939
+C:\Users\aksel\Desktop\Javatyöt\SarjataulukkoJavaDoc\target\site\apidocs\stylesheet.css = 1667524909934
+C:\Users\aksel\Desktop\Javatyöt\SarjataulukkoJavaDoc\target\site\apidocs\tag-search-index.js = 1667524909919
+C:\Users\aksel\Desktop\Javatyöt\SarjataulukkoJavaDoc\target\site\apidocs\type-search-index.js = 1667524909917

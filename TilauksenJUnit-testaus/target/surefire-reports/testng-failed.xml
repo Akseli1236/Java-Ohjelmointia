@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [fi.tuni.prog3.junitorder.newJavaFileNGTest]" verbose="0">
+  <test name="Command line test(failed)">
+    <classes>
+      <class name="fi.tuni.prog3.junitorder.newJavaFileNGTest">
+        <methods>
+          <include name="tearDownMethod"/>
+          <include name="setUpMethod"/>
+          <include name="tearDownClass"/>
+          <include name="testMain"/>
+          <include name="setUpClass"/>
+        </methods>
+      </class> <!-- fi.tuni.prog3.junitorder.newJavaFileNGTest -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [fi.tuni.prog3.junitorder.newJavaFileNGTest] -->

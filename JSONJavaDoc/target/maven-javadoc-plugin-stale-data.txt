@@ -1,0 +1,49 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'18'
+-sourcepath
+'C:/Users/aksel/Desktop/Javatyöt/JSONJavaDoc/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/aksel/Desktop/Javatyöt/JSONJavaDoc/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'JSONJavaDoc 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'JSONJavaDoc 1.0-SNAPSHOT API'
+fi.tuni.prog3.json
+'C:/Users/aksel/Desktop/Javatyöt/JSONJavaDoc/src/main/java/fi/tuni/prog3/json/ArrayNode.java'
+'C:/Users/aksel/Desktop/Javatyöt/JSONJavaDoc/src/main/java/fi/tuni/prog3/json/Node.java'
+'C:/Users/aksel/Desktop/Javatyöt/JSONJavaDoc/src/main/java/fi/tuni/prog3/json/ObjectNode.java'
+'C:/Users/aksel/Desktop/Javatyöt/JSONJavaDoc/src/main/java/fi/tuni/prog3/json/package-info.java'
+'C:/Users/aksel/Desktop/Javatyöt/JSONJavaDoc/src/main/java/fi/tuni/prog3/json/ValueNode.java'
+C:\Users\aksel\Desktop\Javatyöt\JSONJavaDoc\src\main\java = 1667521246065
+C:\Users\aksel\Desktop\Javatyöt\JSONJavaDoc\target\site\apidocs\allclasses-index.html = 1667522245641
+C:\Users\aksel\Desktop\Javatyöt\JSONJavaDoc\target\site\apidocs\allpackages-index.html = 1667522245643
+C:\Users\aksel\Desktop\Javatyöt\JSONJavaDoc\target\site\apidocs\copy.svg = 1667522245670
+C:\Users\aksel\Desktop\Javatyöt\JSONJavaDoc\target\site\apidocs\element-list = 1667522245599
+C:\Users\aksel\Desktop\Javatyöt\JSONJavaDoc\target\site\apidocs\help-doc.html = 1667522245665
+C:\Users\aksel\Desktop\Javatyöt\JSONJavaDoc\target\site\apidocs\index-all.html = 1667522245659
+C:\Users\aksel\Desktop\Javatyöt\JSONJavaDoc\target\site\apidocs\index.html = 1667522245661
+C:\Users\aksel\Desktop\Javatyöt\JSONJavaDoc\target\site\apidocs\jquery-ui.overrides.css = 1667522245692
+C:\Users\aksel\Desktop\Javatyöt\JSONJavaDoc\target\site\apidocs\member-search-index.js = 1667522245649
+C:\Users\aksel\Desktop\Javatyöt\JSONJavaDoc\target\site\apidocs\module-search-index.js = 1667522245645
+C:\Users\aksel\Desktop\Javatyöt\JSONJavaDoc\target\site\apidocs\overview-tree.html = 1667522245631
+C:\Users\aksel\Desktop\Javatyöt\JSONJavaDoc\target\site\apidocs\package-search-index.js = 1667522245646
+C:\Users\aksel\Desktop\Javatyöt\JSONJavaDoc\target\site\apidocs\script.js = 1667522245669
+C:\Users\aksel\Desktop\Javatyöt\JSONJavaDoc\target\site\apidocs\search.js = 1667522245671
+C:\Users\aksel\Desktop\Javatyöt\JSONJavaDoc\target\site\apidocs\stylesheet.css = 1667522245667
+C:\Users\aksel\Desktop\Javatyöt\JSONJavaDoc\target\site\apidocs\tag-search-index.js = 1667522245650
+C:\Users\aksel\Desktop\Javatyöt\JSONJavaDoc\target\site\apidocs\type-search-index.js = 1667522245647
